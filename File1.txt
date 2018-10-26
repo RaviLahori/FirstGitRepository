@@ -1,2 +1,6 @@
 Deleted content of this file from github portal
+
 local changes
+
+Remote changes
+
